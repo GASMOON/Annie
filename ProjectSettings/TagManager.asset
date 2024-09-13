@@ -3,12 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - X
+  - Ente
+  - Enemy
+  - Y
+  - Ground
+  - Dead
+  - Heal
+  - Trap
+  - Proyectil
+  - proyectil
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - ground
   - Water
   - UI
   - 
